@@ -2,7 +2,7 @@
 Performing analysis on Kickstarter data to uncover trends by Gordie Thompson for UT Data Analytics Bootcamp 2020
 
 ## Overview of Project
-This analysis aims to help Louise determine how different campaigns in the Kickstarter dataset fared in relation to their launch dates and their funding goals. 
+This analysis aims to help Louise determine how different campaigns in the Kickstarter dataset fared in relation to their launch dates and their funding goals.
 
 ### Purpose
 
@@ -16,6 +16,7 @@ https://github.com/GPT2099/Kickstarter-Analysis/blob/main/Resources/Theater_Outc
 https://github.com/GPT2099/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png
 
 ### Challenges and Difficulties Encountered
+The main challenge was finding relevant and comparable campaigns for Louise within such a large and diverse dataset. This difficulty was overcome by filtering campaigns akin to Louise's on such guidlines as fund raising goals, outcomes, country, and subcatagory such as "Plays". 
 
 ## Results
 
