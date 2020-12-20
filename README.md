@@ -2,6 +2,7 @@
 Performing analysis on Kickstarter data to uncover trends by Gordie Thompson for UT Data Analytics Bootcamp 2020
 
 ## Overview of Project
+This analysis aims to help Louise determine how different campaigns in the Kickstarter dataset fared in relation to their launch dates and their funding goals. 
 
 ### Purpose
 
