@@ -25,6 +25,7 @@ The main challenge was finding relevant and comparable campaigns for Louise with
   2. The most popluar month to launch a campaign is May. May is also historically the most successful month based on the successful/failed campaign ratio. 
 
 - What can you conclude about the Outcomes based on Goals?
+
   -Campaigns with fund raising goals that stick to $5000 or less tend to be far more successful than larger funding goals. The chart does suggest an excpetional success rate of almost 70% for campaigns with funding goal amounts of 35K-45K. 
 
 - What are some limitations of this dataset?
