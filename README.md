@@ -13,6 +13,7 @@ Analysis was performed on the Kickstarter dataset using basic excel summary and 
 https://github.com/GPT2099/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png.png
 
 ### Analysis of Outcomes Based on Goals
+https://github.com/GPT2099/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png
 
 ### Challenges and Difficulties Encountered
 
