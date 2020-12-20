@@ -10,6 +10,8 @@ This analysis aims to help Louise determine how different campaigns in the Kicks
 Analysis was performed on the Kickstarter dataset using basic excel summary and visualization techniques. Filters were applied to the data set to narrow the large field into Louise’s desired interests such as “Theater/Play” categories. 
 
 ### Analysis of Outcomes Based on Launch Date
+<img src = "https://github.com/GPT2099/Kickstarter-Analysis/blob/main/Outcomes%20based%20on%20launch%20date.png" /
+
 
 ### Analysis of Outcomes Based on Goals
 
