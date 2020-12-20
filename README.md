@@ -30,6 +30,7 @@ The main challenge was finding relevant and comparable campaigns for Louise with
   - The chart does suggest an excpetional success rate of almost 70% for the six campaigns with funding goal amounts of 35K-45K. 
 
 - What are some limitations of this dataset?
-  - Very little is known about each individual donation given and at what point of the campaign were they recieved. This information could help determine average donations so that future recommendations could be made to help donators decide how to donate. 
+  - Very little is known about each individual donation given and at what point of the campaign were they recieved. This information could help determine average donations so that future recommendations could be made to help campaigners ask for donations. 
 
 - What are some other possible tables and/or graphs that we could create?
+  - 
