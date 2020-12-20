@@ -21,6 +21,8 @@ The main challenge was finding relevant and comparable campaigns for Louise with
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+  1. The spring/summer months of May through August have the highest amount of launched Kickstarter campaigns.
+  2. The most popluar month to launch a campaign is May. May is also historically the most successful month based on the successful/failed campaign ratio. 
 
 - What can you conclude about the Outcomes based on Goals?
 
