@@ -2,9 +2,10 @@
 Performing analysis on Kickstarter data to uncover trends by Gordie Thompson for UT Data Analytics Bootcamp 2020
 
 ## Overview of Project
-This analysis aims to help Louise determine how different campaigns in the Kickstarter dataset fared in relation to their launch dates and their funding goals.
+The analysis intends to narrow the large dataset into visualizations of the catagories of "Theater/Plays" based on date created and fund raising goals. 
 
 ### Purpose
+This analysis aims to help Louise determine how different campaigns in the Kickstarter dataset fared in relation to their launch dates and their funding goals.
 
 ## Analysis and Challenges
 Analysis was performed on the Kickstarter dataset using basic excel summary and visualization techniques. Filters were applied to the data set to narrow the large field into Louise’s desired interests such as “Theater/Play” categories. 
