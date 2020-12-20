@@ -7,6 +7,7 @@ This analysis aims to help Louise determine how different campaigns in the Kicks
 ### Purpose
 
 ## Analysis and Challenges
+Analysis was performed on the Kickstarter dataset using basic excel summary and visualization techniques. Filters were applied to the data set to narrow the large field into Louise’s desired interests like “Theater/Play” categories. 
 
 ### Analysis of Outcomes Based on Launch Date
 
