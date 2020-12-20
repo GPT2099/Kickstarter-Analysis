@@ -33,4 +33,4 @@ The main challenge was finding relevant and comparable campaigns for Louise with
   - Very little is known about each individual donation given and at what point of the campaign were they recieved. This information could help determine average donations so that future recommendations could be made to help campaigners ask for donations. 
 
 - What are some other possible tables and/or graphs that we could create?
-  - 
+  - Using the date created, date ended, and outcomes columns we could create a graph that shows us the correlation between campaign length to outcome. This would help discover the most beneficial length of campaign. 
