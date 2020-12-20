@@ -1,5 +1,5 @@
 # Kickstarting with Excel
-Performing analysis on Kickstarter data to uncover trends
+Performing analysis on Kickstarter data to uncover trends by Gordie Thompson for UT Data Analytics Bootcamp 2020
 
 ## Overview of Project
 
