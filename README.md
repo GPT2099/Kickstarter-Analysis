@@ -14,7 +14,7 @@ Analysis was performed on the Kickstarter dataset using basic excel summary and 
 [Outcomes Based on Launch Date Graph](./Resources/Theater_Outcomes_vs_Launch.png.png)
 
 ### Analysis of Outcomes Based on Goals
-https://github.com/GPT2099/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png
+[Outcomes Based on Goals](./Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 The main challenge was finding relevant and comparable campaigns for Louise within such a large and diverse dataset. This difficulty was overcome by filtering campaigns akin to Louise's on such guidlines as fund raising goals, outcomes, country, and subcatagory such as "Plays". 
